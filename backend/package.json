@@ -1,0 +1,16 @@
+{
+  "name": "quizgame",
+  "version": "1.0.0",
+  "description": "A quiz game with a lot of functionality ",
+  "keywords": [
+    "quizgame",
+    "fullstack"
+  ],
+  "license": "ISC",
+  "author": "Rahul Kumar",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
